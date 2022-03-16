@@ -1,0 +1,3 @@
+Get-Content -path "$Home\Desktop\NotePad.txt" | 
+
+measure-object -Line
